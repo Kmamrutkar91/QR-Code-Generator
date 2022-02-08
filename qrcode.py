@@ -1,3 +1,4 @@
+#QR Code Generator
 import pyqrcode
 from pyqrcode import QRCode
 s="https://youtube.com/channel/UCdto6jnxyQR2tjRt2DtnfXw"
