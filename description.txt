@@ -1,0 +1,2 @@
+Hello!!
+QR Code Generator generates a QR Code for given URL.
